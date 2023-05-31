@@ -1,0 +1,3 @@
+<inicio>
+Reporte 1
+<fin>
